@@ -1,4 +1,4 @@
-# 🌾 AI-Powered Crop Health Monitoring – *Krishi Netra Inspired*
+# 🌾 AI-Powered Crop Health Monitoring – *Krishi Netra AI*
 
 ## 📌 Domain  
 **Crop Monitoring**
