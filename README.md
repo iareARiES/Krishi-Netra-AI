@@ -1,64 +1,36 @@
-# 🌾 AI-Powered Crop Health Monitoring – *Krishi Netra AI*
+Voice-Based Inventory Management for Farmers
 
-## 📌 Domain  
-**Crop Monitoring**
+🌾 Project Overview
 
----
+This project focuses on developing an AI-powered voice-based inventory management system specifically designed for farmers, enabling them to manage inventory without the need for reading or writing. The system uses lightweight language models (LLMs) and speech APIs to support native language interactions, ensuring accessibility even in low-resource rural environments.
 
-## 🛠️ Problem Statement  
-In the diverse agricultural ecosystem of India, early detection of plant diseases and assessment of crop nutritional health are critical for maximizing yield, minimizing losses, and ensuring long-term food security.  
+⸻
 
-However, most Indian farmers lack timely access to expert agronomic support, resulting in delayed intervention. Even when pest infestations are recognized, many do not know the type or treatment needed, leading to the misuse of agrochemicals—often harming crop growth and soil fertility.
+✅ Current Progress
 
----
+📌 Initial Phase
+	•	Finalized and preprocessed dataset for initial model training.
+	•	Original problem scope was reevaluated after expert feedback from Dr. Soma Dhavala.
 
-## 🎯 Project Objective  
-This project aims to develop a deep learning-based crop health analysis system that:
+🔄 Pivoted Focus
+	•	Shifted project to a more practical and impactful application:
+Voice-based inventory management system for farmers.
 
-- Detects plant diseases using image-based analysis  
-- Evaluates plant nutrition levels through visual cues and remote sensing  
-- Uses satellite imagery to monitor early signs of crop stress  
-- Integrates real-time weather data via APIs to enhance disease prediction  
-- Suggests the right pesticide and quantity based on disease type  
-- Recommends specific nutrients based on deficiency detection  
+📅 Recent Developments
+	•	Redesigned project roadmap to focus on voice interaction and accessibility.
+	•	Started training lightweight LLMs tailored for conversational tasks.
+	•	Integrated speech APIs for real-time voice input/output.
+	•	System design now supports native language interaction, enabling farmers to use the system through simple voice commands.
 
-### 🎯 Targeted Crop Categories:
-- High-Value Spice Crops  
-- Cash Crops  
-- Food Grains  
-- Oilseeds  
-- Plantation & Specialty Crops  
-- Medicinal & Aromatic Plants  
-- Fruits  
+⸻
 
-Our goal is to empower farmers with a user-friendly, real-time tool that detects diseases, diagnoses nutritional issues, and recommends precise treatments—saving crops, time, and money.
+⚙️ Upcoming Goals (This Week)
+	•	🧠 Finish training and fine-tuning the LLM.
+	•	📁 Push all code, scripts, and updated documentation to GitHub.
+	•	🗣️ Test the full voice interaction loop to ensure accurate, real-time responses.
 
----
+⸻
 
-## ✅ Week 1 Progress
+🎯 Final Objective
 
-### 📌 Tasks Completed:
-- Spoke with farmers and researchers to define the problem  
-- Researched existing solutions (e.g., *Krishi Netra*)  
-- Studied ongoing work and identified gaps  
-- Finalized target crops  
-- Outlined project roadmap  
-
-### 📈 Contribution to Goal:
-This week laid the foundation by understanding the real-world problem, selecting relevant crops, and ensuring our solution is unique and feasible.
-
-### 🚩 Milestones Achieved:
-- ✅ Problem finalized  
-- ✅ Similar work analyzed  
-- ✅ Target crops selected  
-
-**Progress:** `15%`
-
----
-
-## ⚠️ Challenges Faced
-
-- 📍 Too many problems to choose from  
-- 🌾 Regional variation in crop issues  
-- 🔁 Existing similar projects  
-- ⚙️ Ensuring technical feasibility  
+To build an intelligent, accessible, and low-cost voice-based assistant that helps farmers track and manage their inventory without needing technical expertise or literacy, thereby bridging the gap between AI technology and rural agriculture.
