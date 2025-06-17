@@ -1,4 +1,4 @@
-Voice-Based Inventory Management for Farmers
+## Voice-Based Inventory Management for Farmers
 
 🌾 Project Overview
 
