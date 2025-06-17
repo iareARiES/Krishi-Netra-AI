@@ -10,7 +10,7 @@ This project focuses on developing an AI-powered voice-based inventory managemen
 
 📌 Initial Phase
 	•	Finalized and preprocessed dataset for initial model training.
-	•	Original problem scope was reevaluated after expert feedback from Dr. Soma Dhavala.
+	•	Original problem scope was reevaluated after expert feedback from Mentors.
 
 🔄 Pivoted Focus
 	•	Shifted project to a more practical and impactful application:
