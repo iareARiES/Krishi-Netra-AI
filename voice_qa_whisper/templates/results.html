@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Results</title>
+</head>
+<body>
+  <h2>Your Results:</h2>
+  {% for a in answers %}
+    <p><strong>Q:</strong> {{ a.question }}<br>
+    <strong>Answer:</strong> {{ a.answer }}<br>
+    <strong>English:</strong> {{ a.translation }}</p>
+    <hr>
+  {% endfor %}
+</body>
+</html>

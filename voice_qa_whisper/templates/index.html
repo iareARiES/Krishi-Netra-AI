@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Voice QA - Question</title>
+  <script src="/static/recorder.js"></script>
+</head>
+<body>
+  <h2>Question:</h2>
+  <p id="question">{{ question }}</p>
+
+  <button onclick="startRecording()">🎙️ Start Recording</button>
+  <button onclick="stopRecording()">⏹️ Stop Recording</button>
+
+  <p id="answer"></p>
+  <p id="translation"></p>
+
+  <button id="nextBtn" onclick="location.href='/next'" disabled>➡️ Next Question</button>
+</body>
+</html>

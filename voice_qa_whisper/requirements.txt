@@ -1,0 +1,5 @@
+git+https://github.com/openai/whisper.git
+sounddevice
+scipy
+googletrans==4.0.0-rc1
+gTTS
